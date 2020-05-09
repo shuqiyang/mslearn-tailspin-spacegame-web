@@ -1,4 +1,3 @@
-https://dev.azure.com/shy0276/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master
 
 # Contributing
 
